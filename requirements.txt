@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+xgboost==1.7.6
+joblib
+numpy
+scikit-learn
